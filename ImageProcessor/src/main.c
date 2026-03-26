@@ -64,9 +64,7 @@ int main(int argc, char *argv[]) {
     while (gui->is_running) {
         gui_handle_events(gui, img, &hist);
         gui_render_main_window(gui, img);
-        gui_render_histogram_window(gui, img, hist);
-        
-        //SDL_Delay(16); 
+        gui_render_histogram_window(gui, img, hist);        
     }
     
     // Liberar recursos

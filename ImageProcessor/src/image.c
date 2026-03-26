@@ -87,7 +87,7 @@ void image_convert_to_grayscale(Image *img) {
             Uint32 pixel_value = *(Uint32 *)pixel_ptr;
             SDL_GetRGB(pixel_value, fmt, palette, &r, &g, &b);
             
-            // Fórmula de conversão para escala de cinza (ITU-R BT.709)
+            // Fórmula de conversão para escala de cinza
             // Y = 0.2125 * R + 0.7154 * G + 0.0721 * B
             uint8_t gray = (uint8_t)(0.2125f * r + 0.7154f * g + 0.0721f * b);
             
