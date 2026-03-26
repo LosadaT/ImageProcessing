@@ -1,3 +1,5 @@
+//Francisco Losada Totaro - 10364673
+//Pedro Henrique Lanfredi Moreiras - 10441998
 #ifndef IMAGE_H
 #define IMAGE_H
 

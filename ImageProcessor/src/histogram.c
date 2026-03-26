@@ -1,3 +1,5 @@
+//Francisco Losada Totaro - 10364673
+//Pedro Henrique Lanfredi Moreiras - 10441998
 #define SDL_DISABLE_OLD_NAMES
 #include "histogram.h"
 #include <stdlib.h>

@@ -1,3 +1,5 @@
+//Francisco Losada Totaro - 10364673
+//Pedro Henrique Lanfredi Moreiras - 10441998
 #define SDL_DISABLE_OLD_NAMES
 #include "image.h"
 #include <SDL3_image/SDL_image.h>

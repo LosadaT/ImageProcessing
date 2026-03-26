@@ -1,3 +1,5 @@
+//Francisco Losada Totaro - 10364673
+//Pedro Henrique Lanfredi Moreiras - 10441998
 #ifndef GUI_H
 #define GUI_H
 
